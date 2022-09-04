@@ -1,0 +1,48 @@
+
+/* Styling the body element */
+         
+        body {
+            background-color: #000000;
+            margin: 2%;
+        }
+ 
+        /* Styling and giving shadow to the title */
+    h1.title {
+        font-size: 35px;
+        color: white;
+        text-align: center;
+        text-shadow: 5px 5px 10px rgb(77, 72, 72);
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 50%;
+            margin-left:25%;
+        }
+ 
+ 
+        /* Styling the content of the page*/
+        div.main-div {
+            background-color: rgba(27, 52, 39, 0.25);
+            box-shadow: 20px 20px 20px #fbfbfb;
+            font-family: Georgia;
+            padding: 35px 50px;
+            margin: 11px;           
+            color:white; 
+            padding-bottom:50px ;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-2 {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+        a{
+            color: rgb(222, 184, 135);
+        }
